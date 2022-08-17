@@ -1,0 +1,11 @@
+
+https://stackoverflow.com/questions/30505384/how-to-to-fetch-all-attributes-of-user-from-active-directory-using-java-code
+
+https://stackoverflow.com/questions/10212179/using-java-to-find-simple-active-directory-information
+
+https://theitbros.com/ldapsearch/
+
+https://theitbros.com/ldap-query-examples-active-directory/
+
+http://www.adamretter.org.uk/blog/entries/LDAPTest.java
+
