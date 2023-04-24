@@ -1,0 +1,19 @@
+.links {
+    /* background-color: #faf5de; */
+    background-color: #e6e6e6;
+    color: black;
+    min-height: 400px;
+    padding-top: 4em;
+}
+
+.links h1, hr {
+    color: navy;
+    font-weight: bold;
+}
+
+.links a {
+    color: red;
+    padding-left: 2em;
+    font-weight: bold;
+    text-decoration: underline;
+}
